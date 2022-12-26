@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: <a href="https://linkedin.com/in/ofililewis">LinkedIn</a>
 - ⚡ Fun fact: Two of my favorites books are A Billion Wicked Thoughts by Ogi Ogas & Sai Gaddam, and How Will You Measure Your Life by Clayton Christensen!
-
+- 📚 I'm currently reading Streaming Data by Andrew Psaltis, Designing Cloud Data Platforms by Danil Zburivsky & Lynda Partner, and Building the Data Lakehouse by Bill Inmon
